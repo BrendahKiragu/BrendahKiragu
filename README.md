@@ -1,5 +1,5 @@
 # Hi there, I am Brendah Kiragu 👋 
-###  Welcome to my world 🌍, where learning 📚 and innovation 🚀 come together to shape the future of web development!
+###  Welcome to my world 🌍, where learning 📚 and innovation 🚀 comes together to shape the future of web development!
 
  # Bio 👀
 ### -  I am currently diving deep into full-stack development, where I'm honing my skills in both front-end and back-end technologies. 
@@ -26,9 +26,9 @@ Back-End Languages
 
 
 # **📫 How to reach me:**
-- LinkedIn: www.linkedin.com/in/brendah-mwihaki-kiragu-10432218a
-- email: brendakiragu02@gmail.com
-- hashnode.dev check out my blogs here: https://coderbree02.hashnode.dev/
+## - LinkedIn: www.linkedin.com/in/brendah-mwihaki-kiragu-10432218a
+## - email: brendakiragu02@gmail.com
+## - hashnode.dev check out my blogs here: https://coderbree02.hashnode.dev/
 ---
 
 
