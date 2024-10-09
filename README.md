@@ -1,6 +1,6 @@
-### Hello World, I Am Brendah Kiragu👋
+### Hello there, I'm Brendah Kiragu👋
 <a href="https://github.com/BrendahKiragu" target="_blank">
-  <img src="https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Profile image" width="200"/>
+  <img src="https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Profile image" width="100%"/>
 </a>
 <br>
 
@@ -15,9 +15,11 @@ I love working with **React** || **HTML** || **CSS** || **Javascript** for Front
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/brendah-mwihaki-kiragu-10432218a)
 
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/brendah_kiragu/)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/brendah.mwihaki)
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/brendah_kiragu)
+<a href="mailto:brendakiragu02@gmail.com">
+  <img align="left" alt="email" src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br>
 
