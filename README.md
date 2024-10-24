@@ -41,10 +41,13 @@
 <br> <br> <br> <br>
 
 
-
 ## My Github Stats
 
-[![Brendah's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendahKiragu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Brendah's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendahKiragu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/BrendahKiragu)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Byrone&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendahKiragu&layout=compact)](https://github.com/BrendahKiragu) -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrendahKiragu&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendahKiragu&layout=compact&theme=vision-friendly-dark)](https://github.com/BrendahKiragu)
 
