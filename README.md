@@ -2,10 +2,9 @@
   <h1 align="center">Hi 👋, I'm Brendah</h1>
   <img src="images/Brendah Mwihaki Kiragu.jpg" alt="Brendah's Profile Picture" width="200px" height="auto"/>
   <h3>A passionate frontend and backend developer from Kenya</h3>
-</div>
+</div> <hr>
 
-# About Me
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=brendahkiragu&label=Profile%20views&color=0e75b6&style=flat" alt="brendahkiragu" /> </p>
+# About Me <p align="right"> <img src="https://komarev.com/ghpvc/?username=brendahkiragu&label=Profile%20views&color=0e75b6&style=flat" alt="brendahkiragu" /> </p>
 
 <table>
   <tr>
@@ -26,7 +25,7 @@
       </a>
     </td>
   </tr>
-</table>
+</table> <hr>
 
 ## Skills
 
@@ -63,7 +62,7 @@
       </ul>
     </td>
   </tr>
-</table>
+</table> <hr>
 
 ## Connect with Me
 
@@ -85,13 +84,13 @@
       </a>
     </td>
   </tr>
-</table>
+</table> <hr>
 
 ## My GitHub Stats
 
-[![Brendah's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendahKiragu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/BrendahKiragu)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrendahKiragu&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendahKiragu&layout=compact&theme=vision-friendly-dark)](https://github.com/BrendahKiragu)
+[![Brendah's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendahKiragu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/BrendahKiragu) <hr>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrendahKiragu&theme=dark&background=000000)](https://git.io/streak-stats) <hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendahKiragu&layout=compact&theme=vision-friendly-dark)](https://github.com/BrendahKiragu) <hr>
 
 <!--START_SECTION:activity-->
 [![Brendah's GitHub Activity for the last 30days Graph](https://github-readme-activity-graph.vercel.app/graph?username=BrendahKiragu&theme=react&hide_border=true&custom_title=Brendah's%20GitHub%20Activity%20Graph&area=true&hide_title=false&from=now-90d)](https://github.com/BrendahKiragu/github-readme-activity-graph)
