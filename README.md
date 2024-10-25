@@ -1,14 +1,23 @@
-# Hello, I'm Brendah 👋
+<h1 align="center">Hi 👋, I'm Brendah</h1>
+<img />
+<h3 align="center">A passionate frontend and backend developer from Kenya</h3>
 
-## About Me
+<p align="left">
+
+## About Me <p align="right"> <img src="https://komarev.com/ghpvc/?username=brendahkiragu&label=Profile%20views&color=0e75b6&style=flat" alt="brendahkiragu" /> </p>
 
 <table>
   <tr>
     <td valign="center">
-      🎓 Currently pursuing a Software Engineering bootcamp certificate at Moringa School.<br>
-      🌱 Learning **JavaScript** and **Python**.<br>
-      🎯 Goal: Contribute to as many **open source projects** as possible.<br>
-      ✨ Passionate about designing and creating **websites**.
+
+- 🌱 I’m currently learning **Python** and **JavaScript**
+  
+- 📝 I regularly write articles on [https://hashnode.com/@SimplyBree](https://hashnode.com/@SimplyBree)
+
+- 💬 Ask me about **HTML, React, Flask**
+
+- 📫 How to reach me **brendakiragu02@gmail.com**
+  
     </td>
     <td>
       <a href="https://app.daily.dev/brendah02">
@@ -18,33 +27,64 @@
   </tr>
 </table>
 
-## Bio ![Profile View Counter](https://komarev.com/ghpvc/?username=BrendahKiragu)
+## Skills
 
-### What I Do:
-- 🌱 Front-end: **React**, **JavaScript**, **CSS**, **HTML**
-  <br>
-  <ul>
-    <li><img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></li>
-    <li><img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></li>
-    <li><img alt="css" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></li>
-    <li><img alt="html" src="https://img.shields.io/badge/html%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white" /></li>
-  </ul>
-
-- 🌱 Back-end: **Python** and **Flask**
-  <ul>
-    <li><img alt="python" src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" /></li>
-    <li><img alt="flask" src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white&style=for-the-badge" /></li>
-  </ul>
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Frameworks</th>
+    <th>Libraries</th>
+    <th>Others</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li><img alt="HTML" src="https://img.shields.io/badge/html-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white" /></li>
+        <li><img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></li>
+        <li><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></li>
+        <li><img alt="Python" src="https://img.shields.io/badge/python-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" /></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><img alt="Flask" src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white&style=for-the-badge" /></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><img alt="Git" src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" /></li>
+        <li><img alt="Postman" src="https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" /></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Connect with Me
 
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/brendah-mwihaki-kiragu-10432218a)
-[<img alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/brendah.mwihaki)
-<a href="mailto:brendakiragu02@gmail.com">
-  <img alt="email" src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/brendah-mwihaki-kiragu-10432218a" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.facebook.com/brendah.mwihaki" target="_blank">
+        <img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:brendakiragu02@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## My GitHub Stats
 
@@ -53,4 +93,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendahKiragu&layout=compact&theme=vision-friendly-dark)](https://github.com/BrendahKiragu)
 
 <!--START_SECTION:activity-->
+[![Brendah's GitHub Activity for the last 30days Graph](https://github-readme-activity-graph.vercel.app/graph?username=BrendahKiragu&theme=react&hide_border=true&custom_title=Brendah's%20GitHub%20Activity%20Graph&area=true&hide_title=false&from=now-90d)](https://github.com/BrendahKiragu/github-readme-activity-graph)
+
 <!--END_SECTION:activity-->
