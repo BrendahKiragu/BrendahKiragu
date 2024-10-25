@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Brendah</h1>
-<img />
-<h3 align="center">A passionate frontend and backend developer from Kenya</h3>
+<div style="background-color: #333; padding: 10px; border-radius: 10px; text-align: center;" align="center">
+  <h1 align="center">Hi 👋, I'm Brendah</h1>
+  <img src="images/Brendah Mwihaki Kiragu.jpg" alt="Brendah's Profile Picture" width="200px" height="auto"/>
+  <h3>A passionate frontend and backend developer from Kenya</h3>
+</div>
 
-<p align="left">
-
-## About Me <p align="right"> <img src="https://komarev.com/ghpvc/?username=brendahkiragu&label=Profile%20views&color=0e75b6&style=flat" alt="brendahkiragu" /> </p>
+# About Me
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=brendahkiragu&label=Profile%20views&color=0e75b6&style=flat" alt="brendahkiragu" /> </p>
 
 <table>
   <tr>
