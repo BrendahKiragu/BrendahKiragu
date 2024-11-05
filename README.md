@@ -1,10 +1,9 @@
 <div style="background-color: #333; padding: 10px; border-radius: 10px; text-align: center;" align="center">
   <h1 align="center">Hi 👋, I'm Brendah</h1>
-  <img src="images/Brendah Mwihaki Kiragu.jpg" alt="Brendah's Profile Picture" width="200px" height="auto"/>
   <h3>A passionate frontend and backend developer from Kenya</h3>
 </div> <hr>
 
-# About Me <p align="right"> <img src="https://komarev.com/ghpvc/?username=brendahkiragu&label=Profile%20views&color=0e75b6&style=flat" alt="brendahkiragu" /> </p>
+##  <p align="center"> About Me <br> <img src="https://komarev.com/ghpvc/?username=brendahkiragu&label=Profile%20views&color=0e75b6&style=flat" alt="brendahkiragu" /> </p>
 
 <table>
   <tr>
@@ -14,10 +13,8 @@
   
 - 📝 I regularly write articles on [https://hashnode.com/@SimplyBree](https://hashnode.com/@SimplyBree)
 
-- 💬 Ask me about **HTML, React, Flask**
-
-- 📫 How to reach me **brendakiragu02@gmail.com**
-  
+- 💬 Ask me about **HTML, CSS, React, Flask**
+ 
     </td>
     <td>
       <a href="https://app.daily.dev/brendah02">
@@ -27,9 +24,9 @@
   </tr>
 </table> <hr>
 
-## Skills
+## <p align="center">Skills</p>
 
-<table>
+<table align="center">
   <tr>
     <th>Languages</th>
     <th>Frameworks</th>
@@ -64,9 +61,9 @@
   </tr>
 </table> <hr>
 
-## Connect with Me
+## <p align="center">Connect with Me</p>
 
-<table>
+<table  align="center">
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/brendah-mwihaki-kiragu-10432218a" target="_blank">
@@ -86,7 +83,7 @@
   </tr>
 </table> <hr>
 
-## My GitHub Stats
+## <p align="center">My GitHub Stats</p>
 
 [![Brendah's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendahKiragu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/BrendahKiragu) <hr>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrendahKiragu&theme=dark&background=000000)](https://git.io/streak-stats) <hr>
