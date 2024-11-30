@@ -1,12 +1,18 @@
-<div style="background-color: #333; padding: 10px; border-radius: 10px; text-align: center;" align="center">
-  <h1 align="center">Hi 👋, I'm Brendah</h1>
-  <h3>Full Stack Web Developer</h3>
-</div> <hr>
+<img width="1440" alt="Brendah Kiragu Website about page" src="github-profile.png">
 
-<p>I'm a passionate full-stack developer with a solid foundation in both front-end and back-end technologies. With over 6 months of hands-on experience in building dynamic web applications, I've honed my skills in **React**, **JavaScript**, and **Flask** for back-end development. I specialize in crafting efficient, scalable, and user-friendly applications while continuously learning and adapting to new technologies. My journey in tech started with curiosity and a desire to create, and it's been an exciting adventure of growth ever since.</p> <p>Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss ideas!</p> <ul> <li>🌱 I’m currently learning **Python** and expanding my knowledge of **JavaScript**</li> <li>📝 I regularly write articles on [Hashnode](https://hashnode.com/@SimplyBree)</li> <li>💬 Ask me about **HTML**, **CSS**, **React**, **Flask**, **SQLite**, **PostgreSQL**</li> <li>🔧 I have 6 months of experience working with **React**, building APIs with **Flask**, and using **SQLite** and **PostgreSQL** for database management</li> </ul>
-<hr>
+## Hi there, I'm Brendah Kiragu! 👋
 
-## <p align="center">Skills</p>
+I'm a passionate full-stack web developer with a solid foundation in both front-end and back-end technologies. With over 6 months of hands-on experience in building dynamic web applications, I've honed my skills in <strong>JavaScript: React and Nextjs</strong>, and <strong>Python:Flask</strong> for back-end development. I specialize in crafting efficient, scalable, and user-friendly applications while continuously learning and adapting to new technologies. My journey in tech started with curiosity and a desire to create with code, and it's been an exciting adventure of growth ever since.
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss ideas!
+Welcome to my world 🌍
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=BrendahKiragu)
+
+A random joke:
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## Tech Stack
 
 <table align="center">
   <tr>
@@ -52,6 +58,15 @@
   </tr>
 </table> <hr>
 
+## <p align="center">My GitHub Stats</p>
+
+[![Brendah's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendahKiragu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/BrendahKiragu) <hr>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrendahKiragu&theme=dark&background=000000)](https://git.io/streak-stats) <hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendahKiragu&layout=compact&theme=vision-friendly-dark)](https://github.com/BrendahKiragu) <hr>
+
+![Brendah's wakatime stats](https://github-readme-stats-brendah's-projects-c5170b96.vercel.app/api/wakatime?username=brendahkiragu&theme=gotham&layout=compact)
+<br/>
+
 ## <p align="center">Connect with Me</p>
 
 <table  align="center">
@@ -68,14 +83,3 @@
     </td>
   </tr>
 </table> <hr>
-
-## <p align="center">My GitHub Stats</p>
-
-[![Brendah's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendahKiragu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/BrendahKiragu) <hr>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrendahKiragu&theme=dark&background=000000)](https://git.io/streak-stats) <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendahKiragu&layout=compact&theme=vision-friendly-dark)](https://github.com/BrendahKiragu) <hr>
-
-<!--START_SECTION:activity-->
-[![Brendah's GitHub Activity for the last 30days Graph](https://github-readme-activity-graph.vercel.app/graph?username=BrendahKiragu&theme=react&hide_border=true&custom_title=Brendah's%20GitHub%20Activity%20Graph&area=true&hide_title=false&from=now-90d)](https://github.com/BrendahKiragu/github-readme-activity-graph)
-
-<!--END_SECTION:activity-->
