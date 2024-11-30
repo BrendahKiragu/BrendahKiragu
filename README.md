@@ -1,28 +1,10 @@
 <div style="background-color: #333; padding: 10px; border-radius: 10px; text-align: center;" align="center">
   <h1 align="center">Hi 👋, I'm Brendah</h1>
-  <h3>A passionate frontend and backend developer from Kenya</h3>
+  <h3>Full Stack Web Developer</h3>
 </div> <hr>
 
-##  <p align="center"> About Me <br> <img src="https://komarev.com/ghpvc/?username=brendahkiragu&label=Profile%20views&color=0e75b6&style=flat" alt="brendahkiragu" /> </p>
-
-<table>
-  <tr>
-    <td valign="center">
-
-- 🌱 I’m currently learning **Python** and **JavaScript**
-  
-- 📝 I regularly write articles on [https://hashnode.com/@SimplyBree](https://hashnode.com/@SimplyBree)
-
-- 💬 Ask me about **HTML, CSS, React, Flask**
- 
-    </td>
-    <td>
-      <a href="https://app.daily.dev/brendah02">
-        <img src="https://api.daily.dev/devcards/v2/JZNetlnkV7EhnrHHSOtiE.png?type=default&r=uj9" width="356" alt="Brendah Kiragu's Dev Card"/>
-      </a>
-    </td>
-  </tr>
-</table> <hr>
+<p>I'm a passionate full-stack developer with a solid foundation in both front-end and back-end technologies. With over 6 months of hands-on experience in building dynamic web applications, I've honed my skills in **React**, **JavaScript**, and **Flask** for back-end development. I specialize in crafting efficient, scalable, and user-friendly applications while continuously learning and adapting to new technologies. My journey in tech started with curiosity and a desire to create, and it's been an exciting adventure of growth ever since.</p> <p>Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss ideas!</p> <ul> <li>🌱 I’m currently learning **Python** and expanding my knowledge of **JavaScript**</li> <li>📝 I regularly write articles on [Hashnode](https://hashnode.com/@SimplyBree)</li> <li>💬 Ask me about **HTML**, **CSS**, **React**, **Flask**, **SQLite**, **PostgreSQL**</li> <li>🔧 I have 6 months of experience working with **React**, building APIs with **Flask**, and using **SQLite** and **PostgreSQL** for database management</li> </ul>
+<hr>
 
 ## <p align="center">Skills</p>
 
@@ -31,6 +13,7 @@
     <th>Languages</th>
     <th>Frameworks</th>
     <th>Libraries</th>
+    <th>Database Management Sytstems</th>
     <th>Others</th>
   </tr>
   <tr>
@@ -45,6 +28,7 @@
     <td>
       <ul>
         <li><img alt="Flask" src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white&style=for-the-badge" /></li>
+        <li><img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" /></li>
       </ul>
     </td>
     <td>
@@ -54,8 +38,15 @@
     </td>
     <td>
       <ul>
+        <li><img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405F.svg?&style=for-the-badge&logo=sqlite&logoColor=white" /></li>
+        <li><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%2331575C.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
         <li><img alt="Git" src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" /></li>
         <li><img alt="Postman" src="https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" /></li>
+        <li><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></li>
       </ul>
     </td>
   </tr>
@@ -68,11 +59,6 @@
     <td>
       <a href="https://www.linkedin.com/in/brendah-mwihaki-kiragu-10432218a" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.facebook.com/brendah.mwihaki" target="_blank">
-        <img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
       </a>
     </td>
     <td>
