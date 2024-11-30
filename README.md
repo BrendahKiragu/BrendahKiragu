@@ -1,4 +1,4 @@
-<img width="1440" alt="Brendah Kiragu Website about page" src="images/github-profile.png">
+<img width="1440" alt="Brendah Kiragu Website about page" src="landing-image.png">
 
 ## Hi there, I'm Brendah Kiragu! 👋
 
