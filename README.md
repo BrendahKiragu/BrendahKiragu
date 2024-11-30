@@ -1,16 +1,18 @@
-<img width="1440" alt="Brendah Kiragu Website about page" src="github-profile.png">
+<img width="1440" alt="Brendah Kiragu Website about page" src="images/github-profile.png">
 
 ## Hi there, I'm Brendah Kiragu! 👋
 
 I'm a passionate full-stack web developer with a solid foundation in both front-end and back-end technologies. With over 6 months of hands-on experience in building dynamic web applications, I've honed my skills in <strong>JavaScript: React and Nextjs</strong>, and <strong>Python:Flask</strong> for back-end development. I specialize in crafting efficient, scalable, and user-friendly applications while continuously learning and adapting to new technologies. My journey in tech started with curiosity and a desire to create with code, and it's been an exciting adventure of growth ever since.
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss ideas!
 Welcome to my world 🌍
+<p>When not coding I explore programmers jokes for fun:</p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=BrendahKiragu)
 
-A random joke:
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 ## Tech Stack
 
@@ -60,12 +62,17 @@ A random joke:
 
 ## <p align="center">My GitHub Stats</p>
 
-[![Brendah's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendahKiragu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/BrendahKiragu) <hr>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrendahKiragu&theme=dark&background=000000)](https://git.io/streak-stats) <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendahKiragu&layout=compact&theme=vision-friendly-dark)](https://github.com/BrendahKiragu) <hr>
+## Github Stats
 
-![Brendah's wakatime stats](https://github-readme-stats-brendah's-projects-c5170b96.vercel.app/api/wakatime?username=brendahkiragu&theme=gotham&layout=compact)
-<br/>
+<a href="https://github-readme-stats-c5170b96.vercel.app/api?username=BrendahKiragu&count_private=true&show_icons=true&theme=cobalt">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BrendahKiragu&theme=gotham">
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=BrendahKiragu&theme=radical&show_icons=true" alt="Github Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendahKiragu&theme=gotham" alt="Top Languages" />
+
+<br>
 
 ## <p align="center">Connect with Me</p>
 
