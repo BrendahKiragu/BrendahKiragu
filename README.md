@@ -2,7 +2,8 @@
 
 ## Hi there, I'm Brendah Kiragu! 👋
 
-I'm a passionate full-stack web developer with a solid foundation in both front-end and back-end technologies. With over 6 months of hands-on experience in building dynamic web applications, I've honed my skills in <strong>JavaScript: React and Nextjs</strong>, and <strong>Python:Flask</strong> for back-end development. I specialize in crafting efficient, scalable, and user-friendly applications while continuously learning and adapting to new technologies. My journey in tech started with curiosity and a desire to create with code, and it's been an exciting adventure of growth ever since.
+I'm a passionate full-stack web developer with a solid foundation in both front-end and back-end technologies. With over 6 months of hands-on experience in building dynamic web applications, I've honed my skills in <strong>JavaScript: React and Nextjs</strong>, and <strong>Python:Flask</strong> for back-end development.
+I specialize in crafting efficient, scalable, and user-friendly applications while continuously learning and adapting to new technologies. My journey in tech started with curiosity and a desire to create with code, and it's been an exciting adventure of growth ever since.
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss ideas!
 Welcome to my world 🌍
 <p>When not coding I explore programmers jokes for fun:</p>
@@ -60,9 +61,7 @@ Welcome to my world 🌍
   </tr>
 </table> <hr>
 
-## <p align="center">My GitHub Stats</p>
-
-## Github Stats
+## My GitHub Stats
 
 <a href="https://github-readme-stats-c5170b96.vercel.app/api?username=BrendahKiragu&count_private=true&show_icons=true&theme=cobalt">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BrendahKiragu&theme=gotham">
@@ -73,20 +72,3 @@ Welcome to my world 🌍
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendahKiragu&theme=gotham" alt="Top Languages" />
 
 <br>
-
-## <p align="center">Connect with Me</p>
-
-<table  align="center">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/brendah-mwihaki-kiragu-10432218a" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:brendakiragu02@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table> <hr>
