@@ -63,11 +63,6 @@ Welcome to my world 🌍
 
 ## My GitHub Stats
 
-<a href="https://github-readme-stats-c5170b96.vercel.app/api?username=BrendahKiragu&count_private=true&show_icons=true&theme=cobalt">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BrendahKiragu&theme=gotham">
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=BrendahKiragu&theme=radical&show_icons=true" alt="Github Stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendahKiragu&theme=gotham" alt="Top Languages" />
 
